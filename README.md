@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hartwelg
 - 👀 I’m interested in cybersecurity, homelabbing, and 3D printing.
-- 🌱 I’m currently learning how to create a homelab and learn how to manage an office environment.
+- 🌱 I’m currently learning how to manage a Windows Active Directory environment.
 - 📫 How to reach me: https://www.linkedin.com/in/gauge-hartwell-61b44420a/
 
 <!---
