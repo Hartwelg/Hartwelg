@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hartwelg
-- 👀 I’m interested in cybersecurity, homelabbing, and 3D printing.
-- 🌱 I’m currently learning how to manage a Windows Active Directory environment.
-- 📫 How to reach me: https://www.linkedin.com/in/gauge-hartwell-61b44420a/
+- 👀 I’m interested in cybersecurity, server hardware, and 3D printing.
+- 🌱 I’m currently working on earning IT certifications.
+- 📫 How to reach me: https://www.linkedin.com/in/gauge-hartwell/
 
 <!---
 Hartwelg/Hartwelg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
